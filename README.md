@@ -26,27 +26,8 @@
 
 ## 如何开始
 ```js
-> git clone https://github.com/ckinmind/apple-basket-redux.git
-> cd apple-basket-redux
-> npm install
-> npm start
+> npm install -g cnpm --registry=https://registry.npm.taobao.org
+> cnpm install
+> npm run dev
+> http://localhost:8080/
 ```
-
-## 问题收录
-- 异步action的问题(引入redux-thunk), 查看 [issue 6](https://github.com/ckinmind/apple-basket-redux/issues/6)
-- webpack打包html中图片的问题,  查看 [issue 7](https://github.com/ckinmind/apple-basket-redux/issues/7)
-- 关于immutable.js的使用,  查看 [issue 9](https://github.com/ckinmind/apple-basket-redux/issues/9)
-- 关于fetch的使用, 查看 [issue 10](https://github.com/ckinmind/apple-basket-redux/issues/10)
-
-
-#安装cnpm 更换淘宝镜像
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-
-#初始化
-cnpm install
-
-#运行 以开发环境方式
-npm run dev
-
-#浏览器访问
-http://localhost:8080/
