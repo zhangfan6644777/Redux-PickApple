@@ -1,7 +1,6 @@
 # Redux-PickApple
 ![](https://raw.githubusercontent.com/ckinmind/apple-basket-redux/master/src/images/appleBasket.gif)
 
-一个微型的在react中应用redux的demo演示, 在线访问[https://ckinmind.github.io/apple-basket-redux/](https://ckinmind.github.io/apple-basket-redux/),
 
 ## 技术栈
 - React.js with ES6
